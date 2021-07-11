@@ -1,0 +1,22 @@
+[
+  {
+    "quarter": 1,
+    "goal": 12000,
+    "keepMoney": true
+  },
+  {
+    "quarter": 2,
+    "goal": 25000,
+    "keepMoney": true
+  },
+  {
+    "quarter": 3,
+    "goal": 50000,
+    "keepMoney": true
+  },
+  {
+    "quarter": 4,
+    "goal": 100000,
+    "keepMoney": true
+  }
+]

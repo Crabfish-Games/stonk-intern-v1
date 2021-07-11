@@ -1,0 +1,14 @@
+body {
+  -webkit-user-select: none;
+  -moz-user-select: -moz-none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+a {
+  text-decoration: none;
+}
