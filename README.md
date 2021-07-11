@@ -1,4 +1,4 @@
-# Stonk Intern 
+# Stonk Intern 💎
 Proof of concept stock market game.
 
 ## Coming in V2
